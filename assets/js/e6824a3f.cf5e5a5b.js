@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[203],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/howmanysmall/fast-fzy/blob/main","baseUrl":"/fast-fzy/","classOrder":["FastFzy"],"apiCategories":[]}')}}]);
