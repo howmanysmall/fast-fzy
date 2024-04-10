@@ -6,26 +6,22 @@ realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 version = "1.0.0"
 exclude = [
-	"docs",
 	".moonwave",
-	"test",
+	"build",
+	"docs",
 	"Packages",
-	"Janitor.rbxm",
-	"Janitor.rbxmx",
-	"BuildJanitor.lua",
-	"changelog.md",
-	"README.md",
-	".styluaignore",
+	"test",
+
 	".gitignore",
-	"foreman.toml",
-	"Luau.toml",
+	"aftman.toml",
+	"changelog.md",
 	"moonwave.toml",
-	"rotriever.toml",
+	"README.md",
 	"selene.toml",
+	"sourcemap.json",
 	"stylua.toml",
 	"testez-companion.toml",
-	"testez.toml",
+	"testez.yml",
 ]
 
 [dependencies]
-Promise = "evaera/promise@4.0.0-rc.2"
