@@ -1,0 +1,20 @@
+classOrder = ["FastFzy"]
+changelog = true
+gitSourceBranch = "main"
+
+[docusaurus]
+tagline = "A fast fuzzy string search algorithm"
+
+[[navbar.items]]
+href = "https://discord.gg/nhDpg96Srt"
+label = "Discord"
+position = "right"
+
+[[navbar.items]]
+href = "https://twitter.com/howmanysmaII"
+label = "Twitter"
+position = "right"
+
+[home]
+enabled = true
+includeReadme = false
